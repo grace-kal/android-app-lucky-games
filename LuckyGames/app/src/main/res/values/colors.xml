@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="pink">#f06292</color>
+    <color name="pink_dark">#ba2d65</color>
+    <color name="pink_light">#ff94c2</color>
+    <color name="pink_secondary">#f8bbd0</color>
+    <color name="pink_secondary_dark">#c48b9f</color>
+    <color name="pink_secondary_light">#ffeeff</color>
+    <color name="lucky_number">#ffb326</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
